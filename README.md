@@ -1,5 +1,11 @@
 # digital_transformation_leaders_2023
 
+Команда PyCat
+
+Участники:
+Аман Урумбеков Урумбекович - лидер команды и главный data scientist
+Адышев Барсбек Нурбекович - математический советник
+
 final_pipeline.ipynb its the pipeline for training and creating model
 
 testing.ipynb its the testing model code
