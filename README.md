@@ -18,6 +18,7 @@ data_prep.ipynb its the data prep code before train_prep.ipynb
 
 train_prep.ipynb its the train dataset prep code
 
+train_v3.csv[https://drive.google.com/file/d/16yh2o-Vp2SBsImQGrkpNfUftrKVjWKdD/view?usp=sharing] - датасет для тренировки
 
 Наша команда разработала инновационное решение для задачи нахождения схожих товаров на нашем маркетплейсе, используя сиамские нейронные сети. Это представляет собой высокоэффективный метод сравнения и анализа товаров на основе их схожести.
 
