@@ -1,10 +1,22 @@
 # digital_transformation_leaders_2023
 
+Команда PyCat
+
+Участники:
+
+Аман Урумбеков Урумбекович - лидер команды и главный data scientist
+
+Адышев Барсбек Нурбекович - математический советник
+
+---------------------------------------------------------------------------------------
+
 final_pipeline.ipynb its the pipeline for training and creating model
 
 testing.ipynb its the testing model code
 
-train_pred.ipynb its the train dataset prep code
+data_prep.ipynb its the data prep code before train_prep.ipynb
+
+train_prep.ipynb its the train dataset prep code
 
 
 Наша команда разработала инновационное решение для задачи нахождения схожих товаров на нашем маркетплейсе, используя сиамские нейронные сети. Это представляет собой высокоэффективный метод сравнения и анализа товаров на основе их схожести.
