@@ -1,6 +1,7 @@
 # digital_transformation_leaders_2023
 
 final_pipeline.ipynb its the pipeline for training and creating model
+
 testing.ipynb its the testing model code
 
 
